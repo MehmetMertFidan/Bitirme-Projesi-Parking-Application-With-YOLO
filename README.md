@@ -2,10 +2,10 @@ Parking lots have become an indispensable part of modern city life. People want 
 
 Note: Application is updated
 
-YOLO accuracy: %95 (if camera angle is perfect)
+YOLO accuracy: %100 (if camera angle is perfect)
 
 Optical Character Recognition accuracy: %80
 
-General accuracy: 76
+General accuracy: %80
 
 
